@@ -4,6 +4,7 @@
     "product":[],
     "user":[],
     "details":[],
-    "cars":[]
+    "cars":[],
+    "wishlisted_cars":[]
     
 }
