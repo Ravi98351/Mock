@@ -3,6 +3,7 @@
     "cart":[],
     "product":[],
     "user":[],
-    "details":[]
+    "details":[],
+    "cars":[]
     
 }
